@@ -39,10 +39,11 @@ $button-color: #097cff;
 @for $i from 0 through 99 {
   $hue: $i * 3;
   div.swatch.color-#{$i} {
+    position: relative;
     background-color: hsl($hue, 100%, 50%);
-  }
-  div.swatch.color-#{$i}:hover {
-    border: 1px solid black;
+    &:hover {
+      border: 1px solid black;
+    }
   }
 }
 
@@ -152,7 +153,7 @@ nav a:hover {
 }
 
 #items #controls {
-  float: right;
+  align-items: flex-end;
 }
 
 button {
