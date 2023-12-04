@@ -808,10 +808,6 @@ html {
   line-height: 1.5;
 }
 
-section:nth-child(n+4) {
-  min-height: 100vh;
-}
-
 h1 {
   padding: 1rem;
   font-size: 3rem;
@@ -836,7 +832,7 @@ p {
   border: 1px solid #222222;
   border-radius: 8px;
   background-color: #eaeff4;
-  max-height: 30rem;
+  min-height: 100vh;
 }
 
 .card img {
@@ -904,6 +900,7 @@ nav a:hover {
 #items li {
   font-size: 1.25rem;
   padding: 1rem;
+  vertical-align: middle;
 }
 
 #items #controls {
@@ -939,4 +936,40 @@ input.update {
 #total {
   text-align: center;
   font-size: 2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 2rem;
+}
+
+form label {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+form label:nth-child(n+4) {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+input[type=text],
+textarea {
+  border: 2px solid #222222;
+  border-radius: 8px;
+  line-height: 2rem;
+}
+
+input[type=checkbox],
+input[type=radio] {
+  margin-right: 1rem;
+}
+
+form button {
+  margin: 0 auto;
+  width: 90%;
 }/*# sourceMappingURL=styles.css.map */

@@ -23,6 +23,10 @@ $line-height: 1.5;
 // Spacing
 $spacing: 1rem;
 
+// Border
+$border-radius: 8px;
+$thicker-border: 2px solid #222222;
+
 // Colours
 $background-color: #fafafa;
 $text-color: #222222;
@@ -52,11 +56,6 @@ html {
   line-height: $line-height;
 }
 
-// only select 4th section onwards
-section:nth-child(n + 4) {
-  min-height: 100vh;
-}
-
 h1 {
   padding: $spacing;
   font-size: 3rem;
@@ -81,7 +80,7 @@ p {
   border: 1px solid #222222;
   border-radius: 8px;
   background-color: $highlight;
-  max-height: 30rem;
+  min-height: 100vh;
 }
 
 .card img {
@@ -149,6 +148,7 @@ nav a:hover {
 #items li {
   font-size: 1.25rem;
   padding: 1rem;
+  vertical-align: middle;
 }
 
 #items #controls {
@@ -161,8 +161,8 @@ button {
 
 input.update {
   padding: $spacing;
-  border-radius: 8px;
-  border: 2px solid #222222;
+  border-radius: $border-radius;
+  border: $thicker-border;
 }
 
 #total:before {
@@ -172,4 +172,40 @@ input.update {
 #total {
   text-align: center;
   font-size: 2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: calc($spacing * 2);
+}
+
+form label {
+  padding: $spacing;
+  display: flex;
+  flex-direction: column;
+}
+
+form label:nth-child(n + 4) {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+input[type="text"],
+textarea {
+  border: 2px solid #222222;
+  border-radius: $border-radius;
+  line-height: 2rem;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  margin-right: 1rem;
+}
+
+form button {
+  margin: 0 auto;
+  width: 90%;
 }
