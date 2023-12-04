@@ -1,0 +1,904 @@
+div.swatch.color-0 {
+  background-color: hsl(0, 100%, 50%);
+}
+
+div.swatch.color-0:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-1 {
+  background-color: hsl(3, 100%, 50%);
+}
+
+div.swatch.color-1:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-2 {
+  background-color: hsl(6, 100%, 50%);
+}
+
+div.swatch.color-2:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-3 {
+  background-color: hsl(9, 100%, 50%);
+}
+
+div.swatch.color-3:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-4 {
+  background-color: hsl(12, 100%, 50%);
+}
+
+div.swatch.color-4:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-5 {
+  background-color: hsl(15, 100%, 50%);
+}
+
+div.swatch.color-5:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-6 {
+  background-color: hsl(18, 100%, 50%);
+}
+
+div.swatch.color-6:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-7 {
+  background-color: hsl(21, 100%, 50%);
+}
+
+div.swatch.color-7:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-8 {
+  background-color: hsl(24, 100%, 50%);
+}
+
+div.swatch.color-8:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-9 {
+  background-color: hsl(27, 100%, 50%);
+}
+
+div.swatch.color-9:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-10 {
+  background-color: hsl(30, 100%, 50%);
+}
+
+div.swatch.color-10:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-11 {
+  background-color: hsl(33, 100%, 50%);
+}
+
+div.swatch.color-11:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-12 {
+  background-color: hsl(36, 100%, 50%);
+}
+
+div.swatch.color-12:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-13 {
+  background-color: hsl(39, 100%, 50%);
+}
+
+div.swatch.color-13:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-14 {
+  background-color: hsl(42, 100%, 50%);
+}
+
+div.swatch.color-14:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-15 {
+  background-color: hsl(45, 100%, 50%);
+}
+
+div.swatch.color-15:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-16 {
+  background-color: hsl(48, 100%, 50%);
+}
+
+div.swatch.color-16:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-17 {
+  background-color: hsl(51, 100%, 50%);
+}
+
+div.swatch.color-17:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-18 {
+  background-color: hsl(54, 100%, 50%);
+}
+
+div.swatch.color-18:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-19 {
+  background-color: hsl(57, 100%, 50%);
+}
+
+div.swatch.color-19:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-20 {
+  background-color: hsl(60, 100%, 50%);
+}
+
+div.swatch.color-20:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-21 {
+  background-color: hsl(63, 100%, 50%);
+}
+
+div.swatch.color-21:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-22 {
+  background-color: hsl(66, 100%, 50%);
+}
+
+div.swatch.color-22:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-23 {
+  background-color: hsl(69, 100%, 50%);
+}
+
+div.swatch.color-23:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-24 {
+  background-color: hsl(72, 100%, 50%);
+}
+
+div.swatch.color-24:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-25 {
+  background-color: hsl(75, 100%, 50%);
+}
+
+div.swatch.color-25:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-26 {
+  background-color: hsl(78, 100%, 50%);
+}
+
+div.swatch.color-26:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-27 {
+  background-color: hsl(81, 100%, 50%);
+}
+
+div.swatch.color-27:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-28 {
+  background-color: hsl(84, 100%, 50%);
+}
+
+div.swatch.color-28:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-29 {
+  background-color: hsl(87, 100%, 50%);
+}
+
+div.swatch.color-29:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-30 {
+  background-color: hsl(90, 100%, 50%);
+}
+
+div.swatch.color-30:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-31 {
+  background-color: hsl(93, 100%, 50%);
+}
+
+div.swatch.color-31:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-32 {
+  background-color: hsl(96, 100%, 50%);
+}
+
+div.swatch.color-32:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-33 {
+  background-color: hsl(99, 100%, 50%);
+}
+
+div.swatch.color-33:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-34 {
+  background-color: hsl(102, 100%, 50%);
+}
+
+div.swatch.color-34:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-35 {
+  background-color: hsl(105, 100%, 50%);
+}
+
+div.swatch.color-35:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-36 {
+  background-color: hsl(108, 100%, 50%);
+}
+
+div.swatch.color-36:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-37 {
+  background-color: hsl(111, 100%, 50%);
+}
+
+div.swatch.color-37:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-38 {
+  background-color: hsl(114, 100%, 50%);
+}
+
+div.swatch.color-38:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-39 {
+  background-color: hsl(117, 100%, 50%);
+}
+
+div.swatch.color-39:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-40 {
+  background-color: hsl(120, 100%, 50%);
+}
+
+div.swatch.color-40:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-41 {
+  background-color: hsl(123, 100%, 50%);
+}
+
+div.swatch.color-41:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-42 {
+  background-color: hsl(126, 100%, 50%);
+}
+
+div.swatch.color-42:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-43 {
+  background-color: hsl(129, 100%, 50%);
+}
+
+div.swatch.color-43:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-44 {
+  background-color: hsl(132, 100%, 50%);
+}
+
+div.swatch.color-44:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-45 {
+  background-color: hsl(135, 100%, 50%);
+}
+
+div.swatch.color-45:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-46 {
+  background-color: hsl(138, 100%, 50%);
+}
+
+div.swatch.color-46:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-47 {
+  background-color: hsl(141, 100%, 50%);
+}
+
+div.swatch.color-47:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-48 {
+  background-color: hsl(144, 100%, 50%);
+}
+
+div.swatch.color-48:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-49 {
+  background-color: hsl(147, 100%, 50%);
+}
+
+div.swatch.color-49:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-50 {
+  background-color: hsl(150, 100%, 50%);
+}
+
+div.swatch.color-50:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-51 {
+  background-color: hsl(153, 100%, 50%);
+}
+
+div.swatch.color-51:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-52 {
+  background-color: hsl(156, 100%, 50%);
+}
+
+div.swatch.color-52:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-53 {
+  background-color: hsl(159, 100%, 50%);
+}
+
+div.swatch.color-53:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-54 {
+  background-color: hsl(162, 100%, 50%);
+}
+
+div.swatch.color-54:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-55 {
+  background-color: hsl(165, 100%, 50%);
+}
+
+div.swatch.color-55:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-56 {
+  background-color: hsl(168, 100%, 50%);
+}
+
+div.swatch.color-56:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-57 {
+  background-color: hsl(171, 100%, 50%);
+}
+
+div.swatch.color-57:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-58 {
+  background-color: hsl(174, 100%, 50%);
+}
+
+div.swatch.color-58:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-59 {
+  background-color: hsl(177, 100%, 50%);
+}
+
+div.swatch.color-59:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-60 {
+  background-color: hsl(180, 100%, 50%);
+}
+
+div.swatch.color-60:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-61 {
+  background-color: hsl(183, 100%, 50%);
+}
+
+div.swatch.color-61:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-62 {
+  background-color: hsl(186, 100%, 50%);
+}
+
+div.swatch.color-62:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-63 {
+  background-color: hsl(189, 100%, 50%);
+}
+
+div.swatch.color-63:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-64 {
+  background-color: hsl(192, 100%, 50%);
+}
+
+div.swatch.color-64:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-65 {
+  background-color: hsl(195, 100%, 50%);
+}
+
+div.swatch.color-65:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-66 {
+  background-color: hsl(198, 100%, 50%);
+}
+
+div.swatch.color-66:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-67 {
+  background-color: hsl(201, 100%, 50%);
+}
+
+div.swatch.color-67:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-68 {
+  background-color: hsl(204, 100%, 50%);
+}
+
+div.swatch.color-68:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-69 {
+  background-color: hsl(207, 100%, 50%);
+}
+
+div.swatch.color-69:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-70 {
+  background-color: hsl(210, 100%, 50%);
+}
+
+div.swatch.color-70:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-71 {
+  background-color: hsl(213, 100%, 50%);
+}
+
+div.swatch.color-71:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-72 {
+  background-color: hsl(216, 100%, 50%);
+}
+
+div.swatch.color-72:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-73 {
+  background-color: hsl(219, 100%, 50%);
+}
+
+div.swatch.color-73:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-74 {
+  background-color: hsl(222, 100%, 50%);
+}
+
+div.swatch.color-74:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-75 {
+  background-color: hsl(225, 100%, 50%);
+}
+
+div.swatch.color-75:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-76 {
+  background-color: hsl(228, 100%, 50%);
+}
+
+div.swatch.color-76:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-77 {
+  background-color: hsl(231, 100%, 50%);
+}
+
+div.swatch.color-77:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-78 {
+  background-color: hsl(234, 100%, 50%);
+}
+
+div.swatch.color-78:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-79 {
+  background-color: hsl(237, 100%, 50%);
+}
+
+div.swatch.color-79:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-80 {
+  background-color: hsl(240, 100%, 50%);
+}
+
+div.swatch.color-80:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-81 {
+  background-color: hsl(243, 100%, 50%);
+}
+
+div.swatch.color-81:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-82 {
+  background-color: hsl(246, 100%, 50%);
+}
+
+div.swatch.color-82:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-83 {
+  background-color: hsl(249, 100%, 50%);
+}
+
+div.swatch.color-83:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-84 {
+  background-color: hsl(252, 100%, 50%);
+}
+
+div.swatch.color-84:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-85 {
+  background-color: hsl(255, 100%, 50%);
+}
+
+div.swatch.color-85:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-86 {
+  background-color: hsl(258, 100%, 50%);
+}
+
+div.swatch.color-86:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-87 {
+  background-color: hsl(261, 100%, 50%);
+}
+
+div.swatch.color-87:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-88 {
+  background-color: hsl(264, 100%, 50%);
+}
+
+div.swatch.color-88:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-89 {
+  background-color: hsl(267, 100%, 50%);
+}
+
+div.swatch.color-89:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-90 {
+  background-color: hsl(270, 100%, 50%);
+}
+
+div.swatch.color-90:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-91 {
+  background-color: hsl(273, 100%, 50%);
+}
+
+div.swatch.color-91:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-92 {
+  background-color: hsl(276, 100%, 50%);
+}
+
+div.swatch.color-92:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-93 {
+  background-color: hsl(279, 100%, 50%);
+}
+
+div.swatch.color-93:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-94 {
+  background-color: hsl(282, 100%, 50%);
+}
+
+div.swatch.color-94:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-95 {
+  background-color: hsl(285, 100%, 50%);
+}
+
+div.swatch.color-95:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-96 {
+  background-color: hsl(288, 100%, 50%);
+}
+
+div.swatch.color-96:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-97 {
+  background-color: hsl(291, 100%, 50%);
+}
+
+div.swatch.color-97:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-98 {
+  background-color: hsl(294, 100%, 50%);
+}
+
+div.swatch.color-98:hover {
+  border: 1px solid black;
+}
+
+div.swatch.color-99 {
+  background-color: hsl(297, 100%, 50%);
+}
+
+div.swatch.color-99:hover {
+  border: 1px solid black;
+}
+
+body,
+html {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color: #222222;
+  background-color: #fafafa;
+  line-height: 1.5;
+}
+
+section:nth-child(n+4) {
+  min-height: 100vh;
+}
+
+h1 {
+  padding: 1rem;
+  font-size: 3rem;
+  color: darkslategray;
+  font-weight: 700;
+  margin: 0;
+}
+
+p {
+  padding: 1rem;
+}
+
+#popular {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 0 auto;
+}
+
+.card {
+  width: 25%;
+  border: 1px solid #222222;
+  border-radius: 8px;
+  background-color: #eaeff4;
+  max-height: 30rem;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px 8px 0 0;
+}
+
+.card p {
+  padding: 1rem;
+}
+
+.swatches {
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-gap: 1rem;
+}
+
+#nav {
+  margin: 0;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: #222222;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+nav a {
+  color: teal;
+  text-decoration: none;
+  padding: 0.5rem 0.5rem;
+  font-size: 1.25rem;
+}
+
+nav a:hover {
+  color: white;
+}
+
+.swatch {
+  margin: 1px;
+  width: 100px;
+  height: 50px;
+}
+
+#items {
+  list-style: none;
+  width: 80%;
+}
+
+#items li {
+  font-size: 1.25rem;
+  padding: 1rem;
+  border-bottom: 1px solid #222222;
+}
+
+#items #controls {
+  float: right;
+}/*# sourceMappingURL=styles.css.map */
