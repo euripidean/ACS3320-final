@@ -38,11 +38,30 @@ $button-color: #097cff;
 // Swatches
 @for $i from 0 through 99 {
   $hue: $i * 3;
+  $color: hsl($hue, 100%, 50%);
+  $tooltip-color: if($i < 67, #222222, white);
   div.swatch.color-#{$i} {
     position: relative;
-    background-color: hsl($hue, 100%, 50%);
+    background-color: $color;
+
+    &::before {
+      content: "Color #{$i}";
+      position: absolute;
+      top: 0;
+      left: 0;
+      padding: 0.5rem;
+      color: $tooltip-color;
+      opacity: 0;
+      font-size: 0.75rem;
+      transition: opacity 0.3s ease-in-out;
+    }
+
     &:hover {
       border: 1px solid black;
+
+      &::before {
+        opacity: 1;
+      }
     }
   }
 }
@@ -127,6 +146,22 @@ nav a:hover {
   color: white;
 }
 
+a {
+  color: $link-color;
+}
+
+a:hover {
+  color: darken($link-color, 10%);
+}
+
+footer {
+  background-color: #222222;
+  color: white;
+  padding: $spacing;
+  text-align: center;
+  height: 100px;
+}
+
 .swatch {
   margin: 1px;
   width: 100px;
@@ -153,7 +188,7 @@ nav a:hover {
 }
 
 #items #controls {
-  align-items: flex-end;
+  float: right;
 }
 
 button {
